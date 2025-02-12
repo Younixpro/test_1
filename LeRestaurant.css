@@ -16,6 +16,8 @@ body {
     padding: 20px 0;
     z-index: 1000;
     scrollbar-color: #fff #000; /* Couleur de la scrollbar */
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 29%, rgba(131,131,131,1) 100%, rgba(190,190,190,1) 100%);
 }
 
 
@@ -147,8 +149,8 @@ body {
 }
 
 .hero-title {
-    font-family: 'Bodoni Moda', serif;
-    font-size: 3rem;
+    font-family: 'Italiana', serif;
+    font-size: 64px;
     color: #381505;
     margin-bottom: 0.5rem;
     font-weight: 400;
